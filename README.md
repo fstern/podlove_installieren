@@ -234,4 +234,4 @@ Podcastfolge veröffentlichen.
 ## Dokumentenlizenz
 Dieses Dokument steht unter [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-2016-02-06 Falk Stern <falk@fourecks.de>
+2016-02-06 Falk Stern <falk@fourecks.de> [https://podseed.org](https://podseed.org)
